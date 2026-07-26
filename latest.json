@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "released": "2026-07-26T15:51:47Z",
+  "version": "1.4.0",
+  "released": "2026-07-26T17:47:19Z",
   "notes": "Launcher logs append instead of overwriting; server.log survives a relaunch.",
-  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v1.4.1"
+  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v1.4.0"
 }
