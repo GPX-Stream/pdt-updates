@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
-  "released": "2026-07-26T20:08:46Z",
-  "notes": "Bundles no longer unpack thousands of stray '._' files on Windows.",
-  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v1.4.3"
+  "version": "1.4.4",
+  "released": "2026-07-26T21:11:52Z",
+  "notes": "The Mac app's signature is now valid, and stays valid after an update.",
+  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v1.4.4"
 }
