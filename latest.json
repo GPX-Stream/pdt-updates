@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "released": "2026-07-26T18:59:06Z",
-  "notes": "Update checks now find new versions reliably; the update notice shows the correct release notes.",
-  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v1.4.2"
+  "version": "1.4.3",
+  "released": "2026-07-26T20:08:46Z",
+  "notes": "Bundles no longer unpack thousands of stray '._' files on Windows.",
+  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v1.4.3"
 }
