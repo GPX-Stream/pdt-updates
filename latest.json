@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
-  "released": "2026-07-27T00:17:57Z",
-  "notes": "",
-  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v1.4.6"
+  "version": "1.4.7",
+  "released": "2026-07-27T00:48:33Z",
+  "notes": "Fixes an updater fault that blocked installs from updating at all. Full bundle only \u2014 no delta assets, so any install can take it from any version.",
+  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v1.4.7"
 }
