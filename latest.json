@@ -11,16 +11,16 @@
       "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.0"
     },
     "win-arm64": {
-      "version": "2.0.0",
-      "released": "2026-07-27T01:55:52Z",
-      "notes": "2.0.0. Clean baseline release for all platforms.",
-      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.0"
+      "version": "2.0.1",
+      "released": "2026-07-30T16:10:01Z",
+      "notes": "Improves SIM setup reliability when another app takes the foreground.",
+      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.1"
     },
     "win-x64": {
-      "version": "2.0.0",
-      "released": "2026-07-27T01:55:52Z",
-      "notes": "2.0.0. Clean baseline release for all platforms.",
-      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.0"
+      "version": "2.0.1",
+      "released": "2026-07-30T16:10:01Z",
+      "notes": "Improves SIM setup reliability when another app takes the foreground.",
+      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.1"
     }
   }
 }
