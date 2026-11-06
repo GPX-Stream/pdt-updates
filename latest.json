@@ -1,14 +1,14 @@
 {
-  "version": "2.0.1",
-  "released": "2026-08-24T14:10:31Z",
-  "notes": "Improves SIM setup reliability when another app takes the foreground.",
-  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.1",
+  "version": "2.0.2",
+  "released": "2026-11-06T17:08:44Z",
+  "notes": "Backup SIM cards now get a data APN automatically (plain wbdata rows for every Webbing numeric).",
+  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.2",
   "platforms": {
     "mac": {
-      "version": "2.0.1",
-      "released": "2026-08-24T14:10:31Z",
-      "notes": "Improves SIM setup reliability when another app takes the foreground.",
-      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.1"
+      "version": "2.0.2",
+      "released": "2026-11-06T17:08:44Z",
+      "notes": "Backup SIM cards now get a data APN automatically (plain wbdata rows for every Webbing numeric).",
+      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.2"
     },
     "win-arm64": {
       "version": "2.0.2",
