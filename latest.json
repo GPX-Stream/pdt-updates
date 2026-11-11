@@ -11,16 +11,16 @@
       "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.2"
     },
     "win-arm64": {
-      "version": "2.0.2",
-      "released": "2026-10-22T17:48:34Z",
-      "notes": "Backup SIM cards now get a data APN automatically (plain wbdata rows for every Webbing numeric).",
-      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.2"
+      "version": "2.0.3",
+      "released": "2026-11-11T18:40:36Z",
+      "notes": "APN: clear legacy row blocking wbdata 20801p",
+      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.3"
     },
     "win-x64": {
-      "version": "2.0.2",
-      "released": "2026-10-22T17:48:34Z",
-      "notes": "Backup SIM cards now get a data APN automatically (plain wbdata rows for every Webbing numeric).",
-      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.2"
+      "version": "2.0.3",
+      "released": "2026-11-11T18:40:36Z",
+      "notes": "APN: clear legacy row blocking wbdata 20801p",
+      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.3"
     }
   }
 }
