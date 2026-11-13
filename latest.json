@@ -1,14 +1,14 @@
 {
   "version": "2.0.3",
-  "released": "2026-11-11T18:45:11Z",
+  "released": "2026-11-11T18:40:36Z",
   "notes": "APN: clear legacy row blocking wbdata 20801p",
   "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.3",
   "platforms": {
     "mac": {
-      "version": "2.0.3",
-      "released": "2026-11-11T18:45:11Z",
-      "notes": "APN: clear legacy row blocking wbdata 20801p",
-      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.3"
+      "version": "2.1.0",
+      "released": "2026-11-13T22:17:05Z",
+      "notes": "",
+      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.1.0"
     },
     "win-arm64": {
       "version": "2.0.3",
