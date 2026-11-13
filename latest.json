@@ -1,8 +1,8 @@
 {
-  "version": "2.0.3",
-  "released": "2026-11-11T18:40:36Z",
-  "notes": "APN: clear legacy row blocking wbdata 20801p",
-  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.3",
+  "version": "2.1.0",
+  "released": "2026-11-13T22:17:05Z",
+  "notes": "",
+  "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.1.0",
   "platforms": {
     "mac": {
       "version": "2.1.0",
@@ -11,16 +11,16 @@
       "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.1.0"
     },
     "win-arm64": {
-      "version": "2.0.3",
-      "released": "2026-11-11T18:40:36Z",
-      "notes": "APN: clear legacy row blocking wbdata 20801p",
-      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.3"
+      "version": "2.1.0",
+      "released": "2026-11-13T22:19:36Z",
+      "notes": "New Event APN Refresh preset; removable-eUICC identify fix; Esper remote binds after run",
+      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.1.0"
     },
     "win-x64": {
-      "version": "2.0.3",
-      "released": "2026-11-11T18:40:36Z",
-      "notes": "APN: clear legacy row blocking wbdata 20801p",
-      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.0.3"
+      "version": "2.1.0",
+      "released": "2026-11-13T22:19:36Z",
+      "notes": "New Event APN Refresh preset; removable-eUICC identify fix; Esper remote binds after run",
+      "url": "https://github.com/GPX-Stream/pdt-setup-py/releases/tag/v2.1.0"
     }
   }
 }
